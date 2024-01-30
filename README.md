@@ -2,15 +2,10 @@
 
 This is a simple Sudoku Solver web application created using HTML, JavaScript, and CSS. The solver utilizes recursion and backtracking algorithms to find the solution for a given Sudoku puzzle.
 
-## Live Demo
-
-The Sudoku Solver is deployed and accessible online. You can try it live at:
-
-[https://parththakkar1818.github.io/Sudoku-solver/](https://parththakkar1818.github.io/Sudoku-solver/)
 
 ## How to Use
 
-1. Open the `index.html` file in a web browser.
+1. Open project at : [https://parththakkar1818.github.io/Sudoku-solver/](https://parththakkar1818.github.io/Sudoku-solver/)
 
 2. You will see a 9x9 Sudoku grid with input cells. You can enter the initial values of the Sudoku puzzle.
 
@@ -32,15 +27,8 @@ This Sudoku Solver was created by Parth Thakkar.
 
 - LinkedIn: [Parth Thakkar](https://www.linkedin.com/in/parth-thakkar-5b4946230/)
 
-- GitHub: [Parth Thakkar on GitHub](https://github.com/parththakkar1818)
+- GitHub: [Parth Thakkar](https://github.com/parththakkar1818)
 
 ## Credits
 
 The solver algorithm is implemented using recursion and backtracking.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to use, modify, and distribute the code as per the terms of the license.
-
